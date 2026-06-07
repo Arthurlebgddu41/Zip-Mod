@@ -1,0 +1,35 @@
+# gradle
+.gradle/
+build/
+out/
+classes/
+
+# eclipse
+.classpath
+.project
+.settings/
+bin/
+.metadata
+.recommenders/
+
+# idea
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# vscode
+.vscode/
+.settings.json
+
+# macos
+.DS_Store
+
+# minecraft
+run/
+
+# gradle wrapper
+gradlew
+gradlew.bat
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties

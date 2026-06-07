@@ -1,0 +1,13 @@
+modLoader="javafxmod"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="zipmod"
+version="1.0.0"
+displayName="Zip Mod"
+displayURL="https://github.com/Arthurlebgddu41/Zip-Mod"
+logoFile=""
+credits="Arthurlebgddu41"
+authors="Arthurlebgddu41"
+description="""A Minecraft mod that adds compression and decompression blocks for item storage using ZIP format."""
